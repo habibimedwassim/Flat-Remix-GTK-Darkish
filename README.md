@@ -3,6 +3,7 @@
 ![Screen Shot](https://github.com/habibimedwassim/Flat-Remix-GTK-Darkish/blob/main/Screenshot.png?raw=true)
 
 This Theme is a fork of flat-remix-gtk theme with darkish colors.
+Made especially for XFCE desktop environment !
 
 ### Installation
 
