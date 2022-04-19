@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Flat-Remix-GTK-Darkish
+Comment=Flat-Remix-GTK-Darkish theme
+Encoding=UTF-8
+
+
+[X-GNOME-Metatheme]
+GtkTheme=Flat-Remix-GTK-Darkish
+MetacityTheme=Flat-Remix-GTK-Darkish
+IconTheme=Flat-Remix-Blue-Dark
+CursorTheme=DMZ-Black
+ButtonLayout=menu:minimize,maximize,close
