@@ -10,12 +10,13 @@ Made especially for XFCE desktop environment !
 1.Clone the repo
 
 ```sh
-git clone https://github.com/habibimedwassim/Flat-Remix-GTK-Darkish.git
+git clone https://github.com/habibimedwassim/Flat-Remix-GTK-Darkish -b tar-xz
 ```
 
 2.Copy & paste the following:
 
-copy the downloaded folder (Flat-Remix-GTK-Darkish) to ~/.themes/ or ~/.local/share/themes/ or /usr/share/themes/
+unzip and copy the downloaded folder (Flat-Remix-GTK-Darkish)
+to ~/.themes/ or ~/.local/share/themes/ or /usr/share/themes/
 
 3.Select theme from xfce Appearance and Window Manager
 
