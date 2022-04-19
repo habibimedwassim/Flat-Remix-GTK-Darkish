@@ -14,21 +14,7 @@ git clone https://github.com/habibimedwassim/Flat-Remix-GTK-Darkish.git
 
 2.Copy & paste the following:
 
-```sh
-cp -r Flat-Remix-GTK-Darkish/ ~/.themes/
-```
-
-or
-
-```sh
-cp -r Flat-Remix-GTK-Darkish/ ~/.local/share/themes/
-```
-
-or
-
-```sh
-sudo cp -r Flat-Remix-GTK-Darkish/ /usr/share/themes/
-```
+copy the downloaded folder (Flat-Remix-GTK-Darkish) to ~/.themes/ or ~/.local/share/themes/ or /usr/share/themes/
 
 3.Select theme from xfce Appearance and Window Manager
 
